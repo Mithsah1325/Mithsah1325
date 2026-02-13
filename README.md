@@ -1,7 +1,3 @@
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Mithsah1325/count.svg" alt="Visitor's Count" />
-</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=550&height=70&color=2563eb&duration=4000&lines=Hi!+👋;+I'm+Mithlesh+Sah!;" />
